@@ -11,14 +11,12 @@
 Software de gestión de una concesionaria de autos que vende vehículos propios, donde los clientes pueden señarlos.
 
 ### Modelo
-![Concesionaria](https://github.com/user-attachments/assets/5fe86e3c-d7ed-43dd-b417-94d8309b8c2f)
+<img width="806" height="461" alt="Concesionaria (1)" src="https://github.com/user-attachments/assets/13ca7efc-7199-4783-b045-de38d169b522" />
+
 
 ## Alcance Funcional 
 
 ### Alcance Mínimo
-
-*Nota*: el siguiente es un ejemplo para un grupo de 3 integrantes para un sistema de hotel. El 
-
 Regularidad:
 |Req|Detalle|
 |:-|:-|

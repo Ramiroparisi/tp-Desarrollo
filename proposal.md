@@ -11,8 +11,7 @@
 Software de gestión de una concesionaria de autos que vende vehículos propios, donde los clientes pueden señarlos.
 
 ### Modelo
-<img width="806" height="461" alt="Concesionaria (1)" src="https://github.com/user-attachments/assets/13ca7efc-7199-4783-b045-de38d169b522" />
-
+<img width="806" height="571" alt="Concesionaria (2)" src="https://github.com/user-attachments/assets/82397076-82b4-4d61-b020-c02b46f97131" />
 
 ## Alcance Funcional 
 

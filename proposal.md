@@ -4,14 +4,16 @@
 * 51035 - Parisi Ramiro
 
 ### Repositorios
-* [Repo]
+* https://github.com/Ramiroparisi/concesionario-front
+* https://github.com/Ramiroparisi/Concesionario-Back
 
 ## Tema
 ### Descripción
 Software de gestión de una concesionaria de autos que vende vehículos propios, donde los clientes pueden señarlos.
 
 ### Modelo
-<img width="806" height="571" alt="Concesionaria (2)" src="https://github.com/user-attachments/assets/82397076-82b4-4d61-b020-c02b46f97131" />
+<img width="806" height="631" alt="Concesionaria (3)" src="https://github.com/user-attachments/assets/9810db6e-b773-4192-8e69-0c7578a00324" />
+
 
 ## Alcance Funcional 
 

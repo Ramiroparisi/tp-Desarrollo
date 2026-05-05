@@ -24,7 +24,7 @@ Regularidad:
 |CRUD simple|1. CRUD Marca|
 |CRUD dependiente|1. CRUD Modelo {depende de} CRUD Marca<br>2. CRUD Vehículo {depende de} CRUD Modelo|
 |Listado<br>+<br>detalle| 1. Listado de vehículos filtrado por marca, modelo, año desde, año hasta, precio desde, precio hasta => detalle CRUD Vehículo <br> |
-|CUU/Epic|1. Cargar un vehículo|
+|CUU/Epic|1. Realizar reserva de auto|
 
 
 Adicionales para Aprobación
@@ -32,7 +32,7 @@ Adicionales para Aprobación
 |:-|:-|
 |CRUD |1. CRUD Usuario|
 |Listado | 1. Listado de empleados <br> 2. Listado de reservas
-|CUU/Epic|1. Login y registro de usuario <br>2. Realizar reserva de auto|
+|CUU/Epic|1. Login y registro de usuario|
 
 
 ### Alcance Adicional Voluntario

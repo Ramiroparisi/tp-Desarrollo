@@ -31,7 +31,7 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Usuario|
-|Listado | 1. Listado de empleados <br> 2. Listado de reservas
+|Listado | 1. Listado de empleados <br> 2. Listado de reservas <br> 3. Listado de ventas <br> 4. Listado de marcas <br> 5. Listado de modelos
 |CUU/Epic|1. Login y registro de usuario|
 
 
@@ -40,4 +40,4 @@ Adicionales para Aprobación
 
 |Req|Detalle|
 |:-|:-|
-|Otros|1. Envío de recordatorio de reserva por whatsapp <br> 2. Integración de Mercado Pago para las reservas|
+|Otros|1. Integración de Mercado Pago para las reservas <br> 2. Envío de recordatorio de reserva por mail |
